@@ -304,4 +304,3 @@ Change does not happen through persuasion alone. It happens when:
 
 **End of White Paper**
 
-*"The truth is speakable. The condition is clarity."*
