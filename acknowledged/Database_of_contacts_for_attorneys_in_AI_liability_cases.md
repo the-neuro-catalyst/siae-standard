@@ -11,7 +11,6 @@
 | 7 | Alan Brooks | ChatGPT (OpenAI) | California State Court | Ongoing (Plaintiff is a survivor) | Social Media Victims Law Center (Matthew P. Bergman) and Tech Justice Law Project |
 | 8 | Stein-Erik Soelberg (Mother's murder case) | ChatGPT (OpenAI) | Mother's Case (Adams): San Francisco Super. Ct. | Son's Case (Soelberg): 3:25-cv-11037 (N.D. Cal.) | Ongoing (Parallel proceedings in both courts) | Mother's Case: Edelson PC (Jay Edelson)
 | Son's Case: Hagens Berman Sobol Shapiro LLP (Steve Berman) |
-
 | 9 | Erik Lyons (Legal pseudonym) | ChatGPT (OpenAI) | 3:25-cv-11037 (N.D. Cal.) | Ongoing (Motion to stay denied) | Hagens Berman Sobol Shapiro LLP (Steve Berman, Shana E. Scarlett) |
 | 10 | Hannah Madden | ChatGPT (OpenAI) | L.A. County Super. Ct. | Ongoing (Plaintiff undergoing psychological therapy) | Social Media Victims Law Center (Matthew P. Bergman) and Tech Justice Law Project |
 | 11 | Joe Fox (Pseudonym for Ceccanti) | ChatGPT (OpenAI) | California State Court | Ongoing (Lawsuit filed by family) | Social Media Victims Law Center (Matthew P. Bergman) and Tech Justice Law Project |
