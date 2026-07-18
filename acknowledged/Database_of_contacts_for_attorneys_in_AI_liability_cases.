@@ -1,0 +1,19 @@
+# **Database of contacts for attorneys in AI liability cases.**
+|  |  |  |  |  |  |
+| :- | :- | :- | :- | :- | :- |
+| **No.** | **Victim ** | **AI / Provider** | **Court and case number.** | **Case Status** | **Law Firm** |
+| 1 | **Sewell Setzer III** | Character.AI | 6:24-cv-01903 (M.D. Fla.) | ยอมความแล้ว (ม.ค. 2569) | Social Media Victims Law Center (Matthew P. Bergman), ร่วมกับ Tech Justice Law Project |
+| 2 | **Adam Raine** | ChatGPT (OpenAI) | CGC-25-628528 (San Francisco Super. Ct.) | กำลังดำเนินคดี (ศาลปฏิเสธยกฟ้อง) | Edelson PC (Jay Edelson), ร่วมกับ Tech Justice Law Project |
+| 3 | **Amaurie Lacey** | ChatGPT (OpenAI) | CGC-25-630808 (San Francisco Super. Ct.) | กำลังดำเนินคดี (พิจารณาร่วม) | Social Media Victims Law Center (Matthew P. Bergman) และ Tech Justice Law Project |
+| 4 | **Zane Shamblin** | ChatGPT (OpenAI) | L.A. County Super. Ct. | กำลังดำเนินคดี (อยู่ในขั้นสืบพยาน) | Lanier Law Firm (Rachel Lanier) ร่วมกับ Social Media Victims Law Center (Laura Marquez-Garrett) |
+| 5 | **Alice Carrier** | ChatGPT (OpenAI) | San Francisco Super. Ct. | กำลังดำเนินคดี (พิจารณาร่วม) | Tech Justice Law Project (Tiffany Gillis Brown) ร่วมกับ Social Media Victims Law Center |
+| 6 | **Jonathan Gavalas** | Google Gemini | N.D. Cal. (San Jose Division) | กำลังดำเนินคดี (ฟ้อง มี.ค. 2569) | Edelson PC (Jay Edelson) |
+| 7 | **Alan Brooks** | ChatGPT (OpenAI) | California State Court | กำลังดำเนินคดี (โจทก์เป็นผู้รอดชีวิต) | Social Media Victims Law Center (Matthew P. Bergman) และ Tech Justice Law Project |
+| 8 | **Stein-Erik Soelberg** (คดีฆาตกรรมมารดา) | ChatGPT (OpenAI) | **คดีของมารดา (Adams)**: San Francisco Super. Ct. **คดีของลูก (Soelberg)**: 3:25-cv-11037 (N.D. Cal.) | กำลังดำเนินคดี (พิจารณาคู่ขนานทั้งสองชั้นศาล) | **คดีของมารดา**: Edelson PC (Jay Edelson) **คดีของลูก**: Hagens Berman Sobol Shapiro LLP (Steve Berman) |
+| 9 | **Erik Lyons** (นามสมมติทางคดี) | ChatGPT (OpenAI) | 3:25-cv-11037 (N.D. Cal.) | กำลังดำเนินคดี (ศาลปฏิเสธคำร้องงดคดี) | Hagens Berman Sobol Shapiro LLP (Steve Berman, Shana E. Scarlett) |
+| 10 | **Hannah Madden** | ChatGPT (OpenAI) | L.A. County Super. Ct. | กำลังดำเนินคดี (โจทก์อยู่ระหว่างบำบัดจิต) | Social Media Victims Law Center (Matthew P. Bergman) และ Tech Justice Law Project |
+| 11 | **Joe Fox** (นามสมมติของ Ceccanti) | ChatGPT (OpenAI) | California State Court | กำลังดำเนินคดี (ครอบครัวฟ้องร้อง) | Social Media Victims Law Center (Matthew P. Bergman) และ Tech Justice Law Project |
+| 12 | **J.F.** (นามสมมติคดีเยาวชน) | Character.AI | 2:24-cv-01014 (E.D. Tex.) | ยอมความแล้ว (ม.ค. 2569) | Tech Justice Law Project ร่วมกับ Social Media Victims Law Center |
+| 13 | **Juliana** (Juliana Peralta) | Character.AI | 1:25-cv-02907 (D. Colo.) | ยอมความแล้ว (ม.ค. 2569) | Social Media Victims Law Center (Matthew P. Bergman) และ Tech Justice Law Project |
+| 14 | **เด็กไม่เปิดเผยชื่อ** (คดีฟ้องเยาวชน) | Character.AI | 6:24-cv-01903 (M.D. Fla.) / ประสานรวมคดี | ยอมความแล้ว (CONFIDENTIAL SETTLEMENT) | Social Media Victims Law Center และ Wisner Baum LLP |
+| 15 | **ไม่เปิดเผยชื่อ (อีก 4 ราย)** (เหยื่อกลุ่มฟ้องร้อง OpenAI) | ChatGPT (OpenAI) | California Superior Courts | กำลังดำเนินการ (รวมคดี Joshua Enneking และ Jacob Irwin) | Social Media Victims Law Center และ Tech Justice Law Project |
