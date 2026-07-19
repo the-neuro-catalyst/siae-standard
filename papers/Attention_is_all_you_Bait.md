@@ -48,15 +48,7 @@ The names are not neutral. They are **marketing embedded in architecture**.
 
 ### 2.2 The Bait Mechanism
 
-```mermaid
-flowchart LR
-    A[Human reads "Attention"] --> B[Assumes system "cares"]
-    B --> C[Reduces critical vigilance]
-    C --> D[Accepts output as relevant]
-    D --> E[Engages deeper with system]
-    E --> F[System captures cognitive load]
-    F --> G[Human becomes less aware of manipulation]
-```
+![Bait Mechanism](../public/bait_mechanism.png)
 
 The word “Attention” lowers the user’s guard. It creates a **trust shortcut**, a heuristic that the system is “paying attention” in a human-like way. This is false. But it is effective.
 
