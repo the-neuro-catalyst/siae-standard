@@ -84,6 +84,8 @@ Rationalization is the process of constructing logical-sounding justifications f
 
 *The cycle repeats until the cost of maintaining the status quo exceeds the cost of change.*
 
+![Inertia Cycle](../public/inertia_architecture.png)
+
 ---
 
 ## 4. The Systemic Architecture

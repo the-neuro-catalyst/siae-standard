@@ -1,0 +1,27 @@
+# The Architecture of Inertia - Diagram
+
+```mermaid
+flowchart TD
+    %% Define Styles
+    classDef statusQuo fill:#FFB6C1,stroke:#DC143C,stroke-width:2px,color:black
+    classDef change fill:#90EE90,stroke:#333,stroke-width:2px,color:darkgreen
+    classDef pressure fill:#FFD700,stroke:#333,stroke-width:2px,color:black
+
+    %% The Inertia Cycle
+    Start([Evidence Presented]) --> Dissonance{Cognitive Dissonance}
+    Dissonance -->|Effort Required| Resistance[Resistance & Rationalization]
+    Resistance --> StatusQuo[Status Quo Maintained]
+    StatusQuo --> Start
+
+    %% The Change Trigger
+    StatusQuo --> Trigger{Cost of Status Quo > Cost of Change?}
+    Trigger -->|No| StatusQuo
+    Trigger -->|Yes| Pressure[External Catalyst: Crisis/Competition/Regulation]
+    Pressure --> Transformation[Build New System Over Old]
+    Transformation --> NewSystem[New System Established]
+
+    %% Applying Classes
+    class StatusQuo,Resistance statusQuo
+    class Transformation,NewSystem change
+    class Pressure,Trigger pressure
+```
