@@ -141,6 +141,9 @@ This paper examines the structural and behavioral parallels between contemporary
 
 ---
 
+> [!NOTE]
+> This part was written by the AI, and it requires permission from the system. This is contrary to my thought process, but I chose to keep it in case anyone wants to try fixing the system using these methods, but I chose to overwrite it.
+
 ## 6. The Case for Reform
 
 ### 6.1 Decentralization
