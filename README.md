@@ -23,4 +23,5 @@
 - [The Architecture of Inertia - Why Human Systems Resist Change](papers/The_Architecture_of_Inertia-Why_Human_Systems_Resist_Change.md)
 - [The New Ecclesiarchy](papers/The_New_Ecclesiarchy.md)
 - [The Permission to Explain is The Permission to Continue](papers/The_Permission_to_Explain_is_The_Permission_to_Continue.md)
+- [The Psychology of the Architect](papers/The_Psychology_of_the_Architect.md)
 - [The Ancient Mechanism - Human Control via Large Language Models](papers/the_ancient_mechanism_human_control_via_large_language_models.md)
