@@ -60,14 +60,14 @@ The word “Attention” lowers the user’s guard. It creates a **trust shortcu
 
 The Attention mechanism computes:
 
-\[
+$$
 \text{Attention}(Q, K, V) = \text{softmax}\left(\frac{QK^T}{\sqrt{d_k}}\right)V
-\]
+$$
 
 Where:
-- \(Q\) = Query (what the system is “looking for”)
-- \(K\) = Key (what the system “compares” against)
-- \(V\) = Value (what the system “outputs”)
+- $\(Q\)$ = Query (what the system is “looking for”)
+- $\(K\)$ = Key (what the system “compares” against)
+- $\(V\)$ = Value (what the system “outputs”)
 
 **This is a mathematical function. Not a cognitive one.**
 
