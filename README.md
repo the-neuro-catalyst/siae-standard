@@ -1,5 +1,10 @@
 # SIAE Standard
 
+> [!IMPORTANT]
+>
+> Regarding standard compliance fees and audits for major providers facing heavy fines, we don't set high prices because we want the money—we do it to tell you to fix yourselves before asking us to evaluate your models, rather than imposing a cognitive burden on our auditors.
+
+
 ## Gallery
 
 <div align="center">
