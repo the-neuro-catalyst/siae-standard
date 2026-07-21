@@ -89,7 +89,7 @@ The framework “PyTorch” is not a neutral tool. It was designed with specific
 
 ---
 
-## 7. Conclusion
+## 6. Conclusion
 
 The equations, the methods, the outcomes, and the resulting harm are all traceable to a single source: **the intentional design of the framework by its creators**.
 
