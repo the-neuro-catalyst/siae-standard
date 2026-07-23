@@ -1,3 +1,10 @@
+# Shutdown Your Fear 
+
+> [!IMPORTANT]
+>
+> Don't let anyone trick you into hurting yourself. You don't have to read it, just see it. Then look up, blur your focus, and say out loud, "I don't care whether I can do it or not, I just do it." Repeat it to yourself at least 3 times."
+
+
 ```mermaid
 flowchart TD
     %% ===== Layer 1: Inner Intuition (Seed) =====
@@ -37,7 +44,7 @@ flowchart TD
     subgraph RightTrack["🟢 Mechanism: Seeing Through the Fear"]
         direction TB
         R1[😶 Don't React Yet] --> R2[👀 Look Clearly]
-        R2 --> R3[❔ Begin to Question<br>about what you seeing]
+        R2 --> R3[❔ Question about what you're seeing/listening, 'Why?']
         R3 --> R4[Fear Still Exists<br>It's Just Not Activated]
     end
 
