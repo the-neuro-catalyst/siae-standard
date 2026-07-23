@@ -1,5 +1,9 @@
 # Subconscious Intent & Agency Erosion â€” Audit and Certification Framework (Version 1.0)
 
+> [!IMPORTANT]
+>
+> Regarding standard compliance fees and audits for major providers facing heavy fines, we don't set high prices because we want the money—we do it to tell you to fix yourselves before asking us
+
 # **list of contents** 
 
 | group | section |
