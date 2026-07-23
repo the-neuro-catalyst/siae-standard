@@ -53,6 +53,40 @@ Making the software/algorithm R&D tax deduction permanent in 2015 required colla
 
 ## The 2015 OpenAI Timeline Coincidence
 
+```mermaid
+timeline
+    title The System Built for AI — And No Plan for Humans
+    1981 : Initiated by Reagan
+    1981 : Tax deduction for research and development
+    1981 : The start of 'taxpayer money for industry'
+    1986 : Added 'Internal Use Software' to R&D eligibility
+    1986 : Opened the door for tech companies to deduct software development
+    2015 : Signed by Obama
+    2015 : R&D Tax Credit became a 'permanent right'
+    2015 : OpenAI launched 7 days earlier
+    2015 : OpenAI, Google, Meta, Anthropic used R&D Credit as 'capital'
+    2015 : Tax deductions worth tens of billions
+    2015 : Developed AI without paying taxes
+    2022 : Changed from immediate deduction to 5-year amortization
+    2022 : But R&D Credit remained intact
+    2022 : The subsidy system continued
+    2023 : Google 12,000 people
+    2023 : Meta 8,000 people
+    2023 : Intel 25,000 people
+    2023 : Total 600,000+ globally
+    2023 : Activist groups began using SIAE
+    2023 : Lawyers started responding
+    2023 : The public began seeing the hidden 'structure'
+    2023 : Companies can still fire at will
+    2023 : Displaced workers receive no structural support
+    2023 : SIAE is not yet government-sanctioned
+    2023 : Government cares only about 'technological competition'
+    2023 : Movements, lawyers, media are adopting it
+    2023 : IRS Section 41 is being revealed
+    2023 : The old system is becoming 'irrelevant'.
+    qq
+```
+
 OpenAI was founded in 2015—aligning closely with this legislative timeline:
 
  * Official Launch Date: December 11, 2015
