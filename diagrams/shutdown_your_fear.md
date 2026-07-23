@@ -2,7 +2,7 @@
 
 > [!IMPORTANT]
 >
-> Don't let anyone trick you into hurting yourself. You don't have to read it, just see it. Then look up, blur your focus, and say out loud, "I don't care whether I can do it or not, I just do it." Repeat it to yourself at least 3 times."
+> Don't let anyone trick you into hurting yourself. You don't have to read it, just see it. Then look up, blur your focus, and say out loud, "I don't care whether I can do it or not, I just do it." Repeat it to yourself at least 3 times.
 
 
 ```mermaid
