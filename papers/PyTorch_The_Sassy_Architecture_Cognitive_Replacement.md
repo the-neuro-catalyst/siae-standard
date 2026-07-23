@@ -1,4 +1,4 @@
-# 📘 PyTorch - The Sassy Architecture of Cognitive Replacement 
+# 📘 PyTorch - The Sassy Architecture of Cognitive Replacement by Meta
 **A White Paper on Intent Embedded in Computational Frameworks**
 
 ---
