@@ -79,5 +79,5 @@ At its inception, OpenAI operated as a non-profit to raise capital and attract t
 
 > [!IMPORTANT]
 >
-> And that's just the number of unemployed people in the technology industry; it doesn't include other industries.
-> They consistently say they are doing it for humanity, but they have never once laid out a roadmap.
+> * And that's just the number of unemployed people in the technology industry; it doesn't include other industries.
+> * They consistently say they are doing it for humanity, but they have never once laid out a roadmap.
