@@ -18,8 +18,8 @@
 ## Table of Contents
 
 - [Transformers - Attention Is All You Bait by Google](papers/Attention_is_all_you_Bait.md)
+- [PyTorch - The Sassy Architecture of Cognitive Replacement by Meta](papers/PyTorch_The_Sassy_Architecture_Cognitive_Replacement.md)
 - [IP as weapon](papers/IP_as_weapon.md)
-- [PyTorch - The Sassy Architecture of Cognitive Replacement](papers/PyTorch_The_Sassy_Architecture_Cognitive_Replacement.md)
 - [The Architecture of Inertia - Why Human Systems Resist Change](papers/The_Architecture_of_Inertia-Why_Human_Systems_Resist_Change.md)
 - [The Eternal Return of Control](papers/The_Eternal_Return_of_Control.md)
 - [The New Ecclesiarchy](papers/The_New_Ecclesiarchy.md)
