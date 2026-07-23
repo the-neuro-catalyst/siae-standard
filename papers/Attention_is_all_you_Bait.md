@@ -1,4 +1,4 @@
-# 📘 Attention Is All You Bait  
+# 📘 Transformers - Attention Is All You Bait by Google  
 **A Deconstruction of the Attention Mechanism as Cognitive Bait**
 
 ---
