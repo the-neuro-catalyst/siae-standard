@@ -70,8 +70,14 @@ Connection to the PATH Act (2015)
 
 At its inception, OpenAI operated as a non-profit to raise capital and attract top talent. In 2019, they restructured into a capped-profit subsidiary, enabling them to secure massive investments (including from Microsoft) and fully leverage tax structures for model training and algorithm R&D expenses.
 
-* Since then:
+## Since then:
+
   * 600,000+ tech workers laid off
   * Multiple deaths linked to AI
   * No federal AI safety standard
   * No accountability
+
+> [!IMPORTANT]
+>
+> And that's just the number of unemployed people in the technology industry; it doesn't include other industries.
+> They consistently say they are doing it for humanity, but they have never once laid out a roadmap.
